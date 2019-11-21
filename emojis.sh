@@ -24,6 +24,9 @@ fi
 if [[ ! $EMOJI_OPEN_BOOK ]]; then
   EMOJI_OPEN_BOOK=$'\xF0\x9F\x93\x96'
 fi
+if [[ ! $EMOJI_PAGE_FACING_UP ]]; then
+  EMOJI_PAGE_FACING_UP=$'\xF0\x9F\x93\x84'
+fi
 if [[ ! $EMOJI_POUTING_FACE ]]; then
   EMOJI_POUTING_FACE=$'\xF0\x9F\x98\xA1'
 fi
