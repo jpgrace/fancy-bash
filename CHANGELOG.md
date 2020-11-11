@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 0.2.2 - 2020-11-11
+
+Add new colors
+
+-   Add light gray color
+-   Add background colors
+
 ## Version 0.2.1 - 2020-1-3
 
 Fixed markdown issues with remark.
