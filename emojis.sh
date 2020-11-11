@@ -6,6 +6,9 @@
 if [[ ! $EMOJI_BEER_MUG ]]; then
   EMOJI_BEER_MUG=$'\xF0\x9F\x8D\xBA'
 fi
+if [[ ! $EMOJI_CHECKMARK ]]; then
+  EMOJI_CHECKMARK=$'\xE2\x9C\x85'
+fi
 if [[ ! $EMOJI_DASH_SYMBOL ]]; then
   EMOJI_DASH_SYMBOL=$'\xF0\x9F\x92\xA8'
 fi

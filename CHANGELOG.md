@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 0.2.3 - 2020-11-11
+
+Add new emoji checkmark
+
 ## Version 0.2.2 - 2020-11-11
 
 Add new colors
