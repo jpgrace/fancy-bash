@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Creates shortcuts for using emojis in scripts.
 # See: https://apps.timwhitlock.info/emoji/tables/unicode

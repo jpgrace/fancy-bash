@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # See: https://en.wikipedia.org/wiki/ANSI_escape_code
 

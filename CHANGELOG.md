@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 0.2.4 - 2020-11-19
+
+Change bash header on remaining scriptes for more flexibility between systems.
+
 ## Version 0.2.3 - 2020-11-11
 
 Add new emoji checkmark
